@@ -29,4 +29,4 @@
             <i v-else class="fas fa-times"></i>
         </div>
     </div>
-</template>
+</template> 
